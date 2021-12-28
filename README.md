@@ -49,7 +49,7 @@ This app demonstrates how easy it is to manipulate CSS values with JS variables.
 4. Launch index.html in any browser 
 
 ## How to access the app from the web and hear the sound of a drum
-* Follow the link [here](https://clock-on-the-wall.netlify.app/)
+* Follow the link [here](https://ecstatic-mccarthy-d22692.netlify.app/)
 ## Known Bugs
 
 * _None so far_
